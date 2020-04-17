@@ -13,6 +13,7 @@
 		555EEEE524495B3C0091720E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 555EEEE324495B3C0091720E /* Main.storyboard */; };
 		555EEEE724495B3F0091720E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 555EEEE624495B3F0091720E /* Assets.xcassets */; };
 		555EEEEA24495B3F0091720E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 555EEEE824495B3F0091720E /* LaunchScreen.storyboard */; };
+		555EEEF224495CB80091720E /* TDSwiftAutoAlignmentTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 555EEEF124495CB80091720E /* TDSwiftAutoAlignmentTextView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		555EEEE624495B3F0091720E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		555EEEE924495B3F0091720E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		555EEEEB24495B3F0091720E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		555EEEF124495CB80091720E /* TDSwiftAutoAlignmentTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TDSwiftAutoAlignmentTextView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				555EEEE624495B3F0091720E /* Assets.xcassets */,
 				555EEEE824495B3F0091720E /* LaunchScreen.storyboard */,
 				555EEEEB24495B3F0091720E /* Info.plist */,
+				555EEEF124495CB80091720E /* TDSwiftAutoAlignmentTextView.swift */,
 			);
 			path = TDSwiftAutoAlignmentTextView;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				555EEEE224495B3C0091720E /* ViewController.swift in Sources */,
 				555EEEDE24495B3C0091720E /* AppDelegate.swift in Sources */,
+				555EEEF224495CB80091720E /* TDSwiftAutoAlignmentTextView.swift in Sources */,
 				555EEEE024495B3C0091720E /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
